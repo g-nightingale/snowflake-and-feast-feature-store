@@ -1,0 +1,11 @@
+project: feast_test
+registry: registry.db
+provider: local
+offline_store:
+    type: snowflake.offline
+    account: mg24916.eu-west-2.aws
+    user: GRNZ
+    password: Hendrix11!11
+    role: ACCOUNTADMIN
+    warehouse: COMPUTE_WH
+    database: FEAST_TEST
