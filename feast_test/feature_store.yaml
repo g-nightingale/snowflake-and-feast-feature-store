@@ -5,7 +5,7 @@ offline_store:
     type: snowflake.offline
     account: mg24916.eu-west-2.aws
     user: GRNZ
-    password: Hendrix11!11
+    password: 
     role: ACCOUNTADMIN
     warehouse: COMPUTE_WH
     database: FEAST_TEST
