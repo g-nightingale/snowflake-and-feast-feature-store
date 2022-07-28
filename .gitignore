@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Feature store yaml -> contains secrets
+feature_store.yaml

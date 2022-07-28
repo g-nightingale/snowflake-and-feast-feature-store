@@ -1,0 +1,61 @@
+
+?
+
+driver"	driver_idJ
+feast_test
+Ó¿‰—Ø²ÇÇÓ¿‰—Ø²ÇÇ
+A
+!
+__dummy"
+__dummy_idJ
+feast_test
+Ó¿‰—¨¶ËÇÓ¿‰—¨¶ËÇ1"$477b1e71-75eb-4db9-8a06-4003f1761325*è¿‰—Ğüúd2Ì
+«
+driver_hourly_stats
+feast_testdriver"
+	conv_rate"
+acc_rate2€Äÿ:Êevent_timestamp*createdŠ;feast.infra.offline_stores.snowflake_source.SnowflakeSourcešF
+$feast_test_feast_driver_hourly_statsPUBLIC"
+FEAST_TEST*
+COMPUTE_WH¢$feast_test_feast_driver_hourly_stats@b
+	driver_id
+Ó¿‰—ˆ¤ÇÓ¿‰—ˆ¤Ç2Ç
+¦
+driver_avg_daily_trips
+feast_testdriver"
+avg_daily_trips2€Äÿ:Êevent_timestamp*createdŠ;feast.infra.offline_stores.snowflake_source.SnowflakeSourcešF
+$feast_test_feast_driver_hourly_statsPUBLIC"
+FEAST_TEST*
+COMPUTE_WH¢$feast_test_feast_driver_hourly_stats@b
+	driver_id
+Ó¿‰—à•´ÇÓ¿‰—à•´Ç2†
+å
+driver_orders
+feast_testdriver"
+trip_completed2€Äÿ:“event_timestampŠ;feast.infra.offline_stores.snowflake_source.SnowflakeSourceš/
+driver_ordersPUBLIC"
+FEAST_TEST*
+COMPUTE_WH¢driver_orders@b
+	driver_id
+Ó¿‰—Èÿ½ÇÓ¿‰—Èÿ½Ç:Æ
+¥
+driver_activity
+feast_test2
+driver_hourly_stats
+	conv_rate
+acc_rate-
+driver_avg_daily_trips
+avg_daily_trips#
+driver_orders
+trip_completed
+Ó¿‰—àÄÎÇÓ¿‰—àÄÎÇb event_timestampŠ;feast.infra.offline_stores.snowflake_source.SnowflakeSourceš/
+driver_ordersPUBLIC"
+FEAST_TEST*
+COMPUTE_WH¢driver_ordersª
+feast_testb×event_timestamp*createdŠ;feast.infra.offline_stores.snowflake_source.SnowflakeSourcešF
+$feast_test_feast_driver_hourly_statsPUBLIC"
+FEAST_TEST*
+COMPUTE_WH¢$feast_test_feast_driver_hourly_statsª
+feast_testz2
+
+feast_test$75decec4-8448-4eda-85f5-dca2c043b106
