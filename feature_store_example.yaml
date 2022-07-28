@@ -1,0 +1,16 @@
+# Example of feature_store.yaml config with secrets removed
+project: feast_test
+registry: data/registry.db
+provider: aws
+project_description: This is a demo of feast as a feature store.
+offline_store:
+    type: snowflake.offline
+    account: ACCOUNT
+    user: USERNAME
+    password: PASSWORD
+    role: ACCOUNTADMIN
+    warehouse: COMPUTE_WH
+    database: FEAST_TEST
+online_store:
+    type: dynamodb
+    region: eu-west-1
